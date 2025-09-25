@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Demo1.ipa</key>
+	<array>
+		<dict>
+			<key>architectures</key>
+			<array>
+				<string>arm64</string>
+			</array>
+			<key>buildNumber</key>
+			<string>1</string>
+			<key>certificate</key>
+			<dict>
+				<key>SHA1</key>
+				<string>BC3D74D1C84E4F97D6F86DF380517ACF6BD6F21B</string>
+				<key>dateExpires</key>
+				<string>25.09.26</string>
+				<key>type</key>
+				<string>Cloud Managed Apple Distribution</string>
+			</dict>
+			<key>entitlements</key>
+			<dict>
+				<key>application-identifier</key>
+				<string>994BG7BX9U.co.wiese.Demo1</string>
+				<key>com.apple.developer.team-identifier</key>
+				<string>994BG7BX9U</string>
+				<key>get-task-allow</key>
+				<false/>
+			</dict>
+			<key>name</key>
+			<string>Demo1.app</string>
+			<key>profile</key>
+			<dict>
+				<key>UUID</key>
+				<string>b56fc5c1-6259-4491-b6a2-44157b86d7d4</string>
+				<key>dateExpires</key>
+				<string>25.09.26</string>
+				<key>name</key>
+				<string>iOS Team Ad Hoc Provisioning Profile: co.wiese.Demo1</string>
+			</dict>
+			<key>team</key>
+			<dict>
+				<key>id</key>
+				<string>994BG7BX9U</string>
+				<key>name</key>
+				<string>MARKO WIESE</string>
+			</dict>
+			<key>versionNumber</key>
+			<string>1.0</string>
+		</dict>
+	</array>
+</dict>
+</plist>
