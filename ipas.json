@@ -1,0 +1,9 @@
+[
+  {
+    "id": "com.example.app-1",
+    "title": "Meine App 1",
+    "ipa_url": "https://example.com/downloads/meineapp-1.ipa",
+    "manifest_url": "https://example.com/manifests/meineapp-1.plist",
+    "date": "2025-09-01T12:34:56Z"
+  }
+]
