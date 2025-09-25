@@ -3,7 +3,7 @@
     "id": "com.example.app-1",
     "title": "Meine App 1",
     "ipa_url": "https://github.com/cov/DemoAppStoreData/raw/refs/heads/master/download/Demo1/Demo1.ipa",
-    "manifest_url": "https://example.com/manifests/meineapp-1.plist",
+    "manifest_url": "https://github.com/cov/DemoAppStoreData/raw/refs/heads/master/manifest/Demo1.plist",
     "date": "2025-09-01T12:34:56Z"
   }
 ]
